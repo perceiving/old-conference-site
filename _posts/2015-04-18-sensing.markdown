@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Sensing without contact? "
+date:   2015-09-21 08:43:59
+author: Maarten Steenhagen
+categories: Motivations
+cover:  "assets/distance1.jpg"
+---
+
+Perception enables creatures to learn about their surroundings. For us, the distal senses of hearing and sight play a vital role. We see and hear things spatially separated from our bodies, things that may be several feet or light-years away. Distal senses afford a form of perception that does not require physical contact. As such they give rise to puzzles about their operation, and about how the mind relates to its objects. Does distal perception depend on perceived intermediaries? What is the role and nature of the medium intervening between us and a perceived object? Do the distal senses require representations or natural forms of intentionality?
+
+# Puzzling over distance
+
+The fundamental puzzle specific to the distal senses is about action at a distance (cf. Tachau 1988, Pasnau 1997). When Dorothy spots a silver coin on the path, the coin affects her capacity for sight despite being spatially separated. How can remote physical objects act on perceivers? The issue is not merely a causal one, but at root about the conditions for awareness. It forces us to consider the essence of interaction and capacities, and more generally take a stance on the mind’s place in the natural world. Early work in the philosophy of perception embodies solutions to this puzzle, and frequently such solutions are a locus for innovative arguments about the metaphysics of the mind (see Knuuttila 2008, Silva 2014 for overviews).
+
+Today, debates on the nature of sensory experience cover topics such as what range of properties are perceptible (Biggs, Stokes, Matthen eds. 2014), and whether perception depends on the existence of its objects (Travis 2013, Nanay 2010, Brogaard 2014). These discussions have clarified key aspects of sensory experience, though they typically only consider perception at a most general level. On the other hand, in metaphysics authors have recently started to break open earlier consensus about the nature of interaction, capacities and causation (Marmodoro ed. 2010, Mumford & Anjum 2011, Vetter 2015). Metaphysicians are increasingly dissatisfied with standard materialist assumptions, and the room modern philosophy leaves for life and conscious beings. They have come carefully to embrace conceptions of psychological capacities and interaction that go beyond a mechanistic picture of nature.
+
+This sort of innovative work on capacities, interaction, and causation has not yet been taken up by the current mainstream of philosophy of perception, in part because the puzzles presented by the distal senses in particular have dropped out of recent discussions.
+
+Arguments now popular in the philosophy of perception, for example about phenomenal character or hallucination, address a different problem, namely the nature of human consciousness per se. This focus exaggerates the importance of subjective aspects of perceiving and ignores the centrality of the specific ability to perceive distant things. Philosophers of perception currently fail to regard perceiving at a distance as a phenomenon of distinct interest, and accordingly fail to notice how poorly the currently dominant picture of the mind chimes with the possibilities afforded by vital forms of perception. This signals a gap in theorising.
+
+![Schelde](http://msteenhagen.github.io/distal/assets/distance2.jpg)
+
+# Frustrating assumptions
+
+To address this gap we need to invite philosophers and psychologists to chart in detail the specific puzzles the distal senses give rise to, and to construct a new framework for understanding the solutions available to us. We need to question current assumptions about how physical objects can and cannot interact with perceivers. It requires examining sidelined possibilities, and forging connections with marginalised ideas and traditions in thinking about the mind. For example: In light of the distal senses, is the act/object distinction tenable? Can we root an account of distal perception in a new theory of perceptual activity? Can the idea of a sympathetic unity of nature explain distal mind- world interaction?
+
+This line of enquiry is likely to have wider ramifications. Fashionable theories relying on mental representations or a perceptual relation only offer entirely general models of perception. Presently it is unclear how to resolve their disagreements, and intellectual stalemate looms. Studying conditions of perception at a distance can push debates like these in directions that jettison a restrictive metaphysics that was never conceived adequately to capture sensory awareness in the first place. Moreover, much psychological research on the senses embodies frustrating philosophical assumptions about interaction, capacities and causation. For philosophers and empirical psychologists to make collaborative progress, not only must all parties take empirical findings seriously, but they must also be prepared to criticise the implicit philosophical assumptions on which those findings are premised.
+
+Philosophers and psychologists would do well to take the puzzles specific to distal sense perception seriously. This conference and masterclass, and resulting published output, will form a landmark in the study of perception, steering current discussions towards a more open-minded enquiry about how those senses may be said to bridge the gap between the mind and its remote objects.
