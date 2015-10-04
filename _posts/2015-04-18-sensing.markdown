@@ -7,7 +7,7 @@ categories: Motivations
 cover:  "assets/distance1.jpg"
 ---
 
-<img src="http://dailydropcap.com/images/P-9-cap.png" title="Daily Drop Cap by Jessica Hische" align="left" alt="P"/>erception enables creatures to learn about their surroundings. For us, the distal senses of hearing and sight play a vital role. We see and hear things spatially separated from our bodies, things that may be several feet or light-years away. Distal senses afford a form of perception that does not require physical contact. As such they give rise to puzzles about their operation, and about how the mind relates to its objects. Does distal perception depend on perceived intermediaries? What is the role and nature of the medium intervening between us and a perceived object? Do the distal senses require representations or natural forms of intentionality?
+Perception enables creatures to learn about their surroundings. For us, the distal senses of hearing and sight play a vital role. We see and hear things spatially separated from our bodies, things that may be several feet or light-years away. Distal senses afford a form of perception that does not require physical contact. As such they give rise to puzzles about their operation, and about how the mind relates to its objects. Does distal perception depend on perceived intermediaries? What is the role and nature of the medium intervening between us and a perceived object? Do the distal senses require representations or natural forms of intentionality?
 
 # Sensing without contact?
 
