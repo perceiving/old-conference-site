@@ -3,6 +3,7 @@ layout: post
 title:  "Distal perception: what about it?"
 date:   2015-09-21 08:43:59
 author: Maarten Steenhagen
+permalink:/itsbest/
 categories: Motivations
 cover:  "assets/distance1.jpg"
 ---
