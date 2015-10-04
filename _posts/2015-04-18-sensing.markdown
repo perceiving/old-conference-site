@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sensing without contact? "
+title:  "Perceiving at a distance"
 date:   2015-09-21 08:43:59
 author: Maarten Steenhagen
 categories: Motivations
@@ -9,7 +9,7 @@ cover:  "assets/distance1.jpg"
 
 Perception enables creatures to learn about their surroundings. For us, the distal senses of hearing and sight play a vital role. We see and hear things spatially separated from our bodies, things that may be several feet or light-years away. Distal senses afford a form of perception that does not require physical contact. As such they give rise to puzzles about their operation, and about how the mind relates to its objects. Does distal perception depend on perceived intermediaries? What is the role and nature of the medium intervening between us and a perceived object? Do the distal senses require representations or natural forms of intentionality?
 
-# Puzzling over distance
+# Sensing without contact?
 
 The fundamental puzzle specific to the distal senses is about action at a distance (cf. Tachau 1988, Pasnau 1997). When Dorothy spots a silver coin on the path, the coin affects her capacity for sight despite being spatially separated. How can remote physical objects act on perceivers? The issue is not merely a causal one, but at root about the conditions for awareness. It forces us to consider the essence of interaction and capacities, and more generally take a stance on the mind’s place in the natural world. Early work in the philosophy of perception embodies solutions to this puzzle, and frequently such solutions are a locus for innovative arguments about the metaphysics of the mind (see Knuuttila 2008, Silva 2014 for overviews).
 
