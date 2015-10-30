@@ -6,7 +6,7 @@ permalink: /distance/
 
 # Perceiving at a distance
 
-## 8-10 June 2016, Antwerp, Belgium
+## 8-10 June 2016, Antwerp
 
 ### Deadline 12 Feb. 2016
 
