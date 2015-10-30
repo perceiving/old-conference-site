@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Call for papers"
+title: "Call for Abstracts"
 permalink: /distance/
 ---
 
-## Call for abstracts
-
 # Perceiving at a distance
 
-__Conference and Masterclass: 8-10 June 2016, Antwerp, Belgium__
+## Conference and Masterclass: 8-10 June 2016, Antwerp, Belgium
+
+### Deadline 12 Feb. 2016
 
 We would like to invite you to contribute a paper to a two-day conference on the philosophy of the distal senses. 
 
@@ -16,7 +16,7 @@ The conference focuses on the distal senses, such as vision and audition. Reflec
 
 The conference will take place on Thursday 9th June and Friday 10th June 2016, at the Centre for Philosophical Psychology, University of Antwerp, Belgium. (An associated Masterclass for graduate students will take place one day earlier, on the 8th of June; a call for graduate students to take part in the masterclass will be made separately.)
 
-We invite submissions for a 20 minute presentation followed by a 10-minute discussion. Submitted contributions may be on any issue falling within the conference theme, broadly construed. Topics may include: 
+We invite submissions for a __20 minute presentation__ followed by a 10-minute discussion. Submitted contributions may be on any issue falling within the conference theme, broadly construed. Topics may include: 
 
 - The relation between optics and vision 
 - Presence at a distance
