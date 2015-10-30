@@ -24,7 +24,7 @@ We invite submissions for a __20 minute presentation__ followed by a 10-minute d
 - Sympathy in perception 
 - Perceptual activity as a form of extramission
 - The time-lag argument against naïve realism
-- The possibility and status of mediated perception
+- The possibility of mediated perception
 - Sense Data
 - Distal perception as a motivation for intentionalism/representationalism
 - Transparency and its explanatory status in a theory of perception
@@ -37,9 +37,4 @@ Please send abstracts of max. 500 words, and prepared for anonymous review, by F
 
 We have only a limited number of spaces for invited speakers, and will try to cover or at least subsidise reasonable travel and accommodation expenses for them.
 
-On behalf of the organisers, 
-
-Maarten Steenhagen (Antwerp)
-
-Winnie Sung (Nanyang, Singapore)
 
