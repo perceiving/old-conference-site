@@ -29,7 +29,7 @@ We invite submissions for a __20 minute presentation__ followed by a 10-minute d
 - Distal perception as a motivation for intentionalism/representationalism
 - Transparency and its explanatory status in a theory of perception
 
-The conference is sponsored by the [New Directions in the Study of the Mind](http:// newdirectionsproject.com) project, a [Templeton Foundation](http://www.templeton.org) funded initiative led by Tim Crane at Cambridge University.
+The conference is sponsored by the [New Directions in the Study of the Mind](http://www.newdirectionsproject.com) project, a [Templeton Foundation](http://www.templeton.org) funded initiative led by Tim Crane at Cambridge University.
 
 ## Submission details 
 
