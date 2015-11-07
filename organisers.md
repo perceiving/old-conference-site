@@ -8,10 +8,9 @@ permalink: /organisers/
 
 <p style="text-align: center;">
 
-Maarten Steenhagen (University of Antwerp)
-
-[Website](http://msteenhagen.github.io)
-
+<h2>Maarten Steenhagen</h2>
+<h4>(University of Antwerp)</h4>
+<a href="http://msteenhagen.github.io">Website</a>
 </p>
 
 
