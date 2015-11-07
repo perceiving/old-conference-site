@@ -33,7 +33,7 @@ The conference is sponsored by the [New Directions in the Study of the Mind](htt
 
 ## Submission details 
 
-Please send abstracts of max. 750 words, and prepared for anonymous review, by Friday 12 February 2016 to:
+__Please send abstracts of max. 750 words, and prepared for anonymous review, by Friday 12 February 2016 to:__
 
 > distalsenses@gmail.com
 
