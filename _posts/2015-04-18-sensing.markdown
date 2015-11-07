@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Distal perception: what about it?"
+title:  "Distal perception: puzzles and phenomena"
 date:   2015-09-21 08:43:59
 author: Maarten Steenhagen
 categories: Motivations
