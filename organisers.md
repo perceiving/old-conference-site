@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Organisers
+title: Conference organisers
 permalink: /organisers/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+Maarten Steenhagen (University of Antwerp) – [Website](http://msteenhagen.github.io) 
 
-Information about the organisers
+Winnie Sung (Nanyang, Singapore) – [Website](http://whcsung.com) 
