@@ -22,7 +22,6 @@ We invite submissions for a __20 minute presentation__ followed by a 10-minute d
 - Presence at a distance
 - The objects of olfaction and audition 
 - Sympathy in perception 
-- Perceptual activity as a form of extramission
 - The time-lag argument against naïve realism
 - The possibility of mediated perception
 - Sense Data
