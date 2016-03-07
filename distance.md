@@ -8,9 +8,7 @@ permalink: /distance/
 
 ## 9-10 June 2016, Antwerp
 
-### Deadline 12 Feb. 2016
-
-We would like to invite you to contribute a paper to a two-day conference on the philosophy of the distal senses. 
+The call for abstracts has now closed. Thank you for your submissions.
 
 The conference focuses on the distal senses, such as vision and audition. Reflection on the capacity to perceive things at a distance gives reason to doubt that sensory experience can be adequately explained in terms of the mechanistic metaphysics that underpins currently popular models of the mind. The conference and associated masterclass will examine alternative positions that can be adopted to make better sense of distal perception. We are seeking contributions that exemplify how cutting-edge research on perception can thrive when resisting a simple-minded, mechanistic view of the mind’s place in nature. 
 
