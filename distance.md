@@ -10,7 +10,7 @@ permalink: /distance/
 
 The call for abstracts has now closed. Thank you for your submissions.
 
-The conference focuses on the distal senses, such as vision and audition. Reflection on the capacity to perceive things at a distance gives reason to doubt that sensory experience can be adequately explained in terms of the mechanistic metaphysics that underpins currently popular models of the mind. The conference and associated masterclass will examine alternative positions that can be adopted to make better sense of distal perception. We are seeking contributions that exemplify how cutting-edge research on perception can thrive when resisting a simple-minded, mechanistic view of the mind’s place in nature. 
+The conference focuses on the distal senses, such as vision and audition. Reflection on the capacity to perceive things at a distance gives reason to doubt that sensory experience can be adequately explained in terms of the mechanistic metaphysics that underpins currently popular models of the mind. The conference will examine alternative positions that can be adopted to make better sense of distal perception. We are seeking contributions that exemplify how cutting-edge research on perception can thrive when resisting a simple-minded, mechanistic view of the mind’s place in nature. 
 
 The conference will take place on Thursday the 9th and Friday the 10th of June 2016, at the Centre for Philosophical Psychology, University of Antwerp, Belgium. 
 
