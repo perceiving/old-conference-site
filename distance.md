@@ -18,9 +18,7 @@ Keynote speakers:
 
 - Louise Richardson (York)
 - Mark Eli Kalderon (UCL)
-- Amber Carpenter (Yale NUS, York)
 - John Campbell (UC Berkeley)
-
 
 We invite submissions for __20 minute presentations__ followed by a 10-minute discussion. Submitted contributions may be on any issue falling within the conference theme, broadly construed. Topics may include: 
 
@@ -36,17 +34,8 @@ We invite submissions for __20 minute presentations__ followed by a 10-minute di
 
 The conference is sponsored by the [New Directions in the Study of the Mind](http://www.newdirectionsproject.com) project, a [Templeton Foundation](http://www.templeton.org) funded initiative led by Tim Crane at Cambridge University.
 
-## Submission details 
-
-__Please send abstracts of max. 750 words, and prepared for anonymous review, by Friday 12 February 2016 to:__
-
-> distalsenses@gmail.com
-
-Decisions by the end of February. We have only a limited number of spaces for invited speakers, and will try to cover or at least subsidise reasonable travel and accommodation expenses for them.
-
 For further information, please contact one of the conference organisers, Maarten Steenhagen (maarten.steenhagen@uantwerpen.be) and Winnie Sung (whcsung@ntu.edu.sg). 
 
-_This page was updated on March 7th with an adjustment to the conference's programme._
-
+_This page was updated on May 3rd, closing the call for abstracts for good._
 
 
