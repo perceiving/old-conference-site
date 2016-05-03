@@ -31,6 +31,6 @@ The __Perceiving at a Distance__ conference focuses on the distal senses, such a
 - Blaine Kenneally (Edinburgh), 'Direct Perception at Vast Distances: Implications for Naïve Realism'
 - Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
 
-Registration: 30 Euros (including conference dinner on Thursday June 9). Send an email to Maarten Steenhagen (maarten.steenhagen@uantwerp.be) to register. Please register by May 22. Places are limited. 
+Registration: 30 Euros (including conference dinner on Thursday June 9). Send an email to Maarten Steenhagen (maarten.steenhagen@uantwerp.be) to register, or use [this form](http://goo.gl/forms/DNgAOkVpvP). Please register by May 22. Places are limited. 
  
 This conference is an initiative funded by the New Directions in the Study of the Mind Project.
