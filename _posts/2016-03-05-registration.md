@@ -20,7 +20,7 @@ Where: Hof van Liere, Prinsstraat, Antwerp
 ## Selected papers: 
 - Katia Samoilova (Tübingen), 'Is Visual Perception a Mental Action?'
 - Solveig Aasen (Oslo), 'Space and Spatial Direction in Olfactory Experience'
-- Benjamin Young (Ben-Gurion), 'The Many Problems of Distal Olfactory Perception'
+- Benjamin Young (University of Nevada, Reno), 'The Many Problems of Distal Olfactory Perception'
 - Tony Cheng (UCL), 'Thermal Perception as a Distal Sense'
 - Louise Daoust (Pennsylvania), 'On Constancy in Size Perception'
 - Caitlin Dolan (UC Berkeley), 'Seeing Without Looking'
