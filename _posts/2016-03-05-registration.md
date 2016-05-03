@@ -2,19 +2,15 @@
 layout: post
 title:  "Register now!"
 date:   2016-05-03 08:43:59
-author: Maarten Steenhagen
 categories: Motivations
 cover:  "assets/distance1.jpg"
 ---
 
-Call for registration:
-# Perceiving at a Distance 
-Conference, June 9-10, 2016. 
+The __Perceiving at a Distance__ conference focuses on the distal senses, such as vision and audition. Reflection on the capacity to perceive things at a distance gives reason to doubt that sensory experience can be adequately explained in terms of the mechanistic metaphysics that underpins currently popular models of the mind. The conference will examine alternative positions that can be adopted to make better sense of distal perception. We will discuss how cutting-edge research on perception can thrive when resisting a simple-minded, mechanistic view of the mind’s place in nature.
 
 When: Thursday June 9, 9.30am-6pm; Friday June 10, 9.30am-6pm
-Where: Hof van Liere, Prinsstraat, Antwerp
 
-The conference focuses on the distal senses, such as vision and audition. Reflection on the capacity to perceive things at a distance gives reason to doubt that sensory experience can be adequately explained in terms of the mechanistic metaphysics that underpins currently popular models of the mind. The conference will examine alternative positions that can be adopted to make better sense of distal perception. We will discuss how cutting-edge research on perception can thrive when resisting a simple-minded, mechanistic view of the mind’s place in nature.
+Where: Hof van Liere, Prinsstraat, Antwerp
 
 ## Keynote speakers:
 - John Campbell (UC Berkeley)
