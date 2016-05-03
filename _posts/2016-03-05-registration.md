@@ -2,6 +2,7 @@
 layout: post
 title:  "Register now!"
 date:   2016-05-03 08:43:59
+author: "May 22"
 categories: Motivations
 cover:  "assets/distance1.jpg"
 ---
