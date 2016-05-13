@@ -42,4 +42,4 @@ Prinsstraat 13, 2000 Antwerpen, Belgium
 - 17:45: Closing
 
 ## Twitter
-Suggested hash tag: #distalsenses
+Suggested hash tag: [#distalsenses](https://goo.gl/r6xtd5)
