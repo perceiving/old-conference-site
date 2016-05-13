@@ -13,12 +13,12 @@ Prinsstraat 13, 2000 Antwerpen, Belgium
 ## Thursday June 9th
 
 - 09:30: Welcome
-- 09:45: (Louise Daoust)[https://goo.gl/VCkrlC] (Pennsylvania), 'On Constancy in Size Perception'
+- 09:45: [Louise Daoust](https://goo.gl/VCkrlC) (Pennsylvania), 'On Constancy in Size Perception'
 - 10:30: Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
 - 11:15: Coffee & Tea
-- 11:30: (Blaine Kenneally)[http://goo.gl/3G7xLc] (Edinburgh), 'Direct Perception at Vast Distances: Implications for Naïve Realism'
+- 11:30: [Blaine Kenneally](http://goo.gl/3G7xLc)([@exblained](https://twitter.com/exblained)) (Edinburgh), 'Direct Perception at Vast Distances: Implications for Naïve Realism'
 - 12:15: Lunch
-- 13:30: (Caitlin Dolan)[https://goo.gl/6Jxfsj] (UC Berkeley), 'Seeing Without Looking'
+- 13:30: [Caitlin Dolan](https://goo.gl/6Jxfsj) (UC Berkeley), 'Seeing Without Looking'
 - 14:15: Katia Samoilova (Tübingen), 'Is Visual Perception a Mental Action?'
 - 15:00: Vivian Mizrahi (Geneva), 'Perceptual Media'
 - 15:45: Coffee & Tea
