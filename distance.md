@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Call for Abstracts"
+published:false
 permalink: /distance/
 ---
 
