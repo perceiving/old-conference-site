@@ -19,10 +19,10 @@ Prinsstraat 13, 2000 Antwerpen, Belgium
 - 11:30: [Blaine Kenneally](http://goo.gl/3G7xLc)([@exblained](https://twitter.com/exblained)) (Edinburgh), 'Direct Perception at Vast Distances: Implications for Naïve Realism'
 - 12:15: Lunch
 - 13:30: [Caitlin Dolan](https://goo.gl/6Jxfsj) (UC Berkeley), 'Seeing Without Looking'
-- 14:15: Katia Samoilova (Tübingen), 'Is Visual Perception a Mental Action?'
-- 15:00: Vivian Mizrahi (Geneva), 'Perceptual Media'
+- 14:15: [Katia Samoilova](https://goo.gl/p4gA5X) (Tübingen), 'Is Visual Perception a Mental Action?'
+- 15:00: [Vivian Mizrahi](http://goo.gl/4fdk73) (Geneva), 'Perceptual Media'
 - 15:45: Coffee & Tea
-- 16:00: Keynote, Mark Eli Kalderon (UCL)
+- 16:00: Keynote, [Mark Eli Kalderon](https://goo.gl/E32jy2) (UCL)
 - 17:00: Drinks
 - 18:30: Conference dinner in De Lokeend
 
