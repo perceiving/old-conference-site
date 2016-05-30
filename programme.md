@@ -29,6 +29,7 @@ Prinsstraat 13, 2000 Antwerpen, Belgium
 
 ## Friday June 10th
 
+- 09:00: Venue open
 - 09:30: [Keith Wilson](http://goo.gl/Il6WBf) (Glasgow), 'Is There an Auditory Field?'
 - 10:15: [Benjamin Young](http://goo.gl/qdjqkE) (Nevada), 'The Many Problems of Distal Olfactory Perception'
 - 11:00: Coffee & Tea
