@@ -33,7 +33,7 @@ Prinsstraat 13, 2000 Antwerpen, Belgium
 - 09:30: [Keith Wilson](http://goo.gl/Il6WBf) (Glasgow), 'Is There an Auditory Field?'
 - 10:15: [Benjamin Young](http://goo.gl/qdjqkE) (Nevada), 'The Many Problems of Distal Olfactory Perception'
 - 11:00: Coffee & Tea
-- 11:15: Keynote, [Louise Richardson](https://goo.gl/uueNaI) (York), 'TBA'
+- 11:15: Keynote, [Louise Richardson](https://goo.gl/uueNaI) (York), 'Odours and sense-data'
 - 12:30: Lunch
 - 13:30: [Solveig Aasen](http://goo.gl/gxrHw1) (Oslo), 'Space and Spatial Direction in Olfactory Experience'
 - 14:15: [Tony Cheng](http://goo.gl/zICkBp) (UCL), 'Thermal Perception as a Distal Sense'
