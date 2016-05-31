@@ -15,8 +15,8 @@ Prinsstraat 13, 2000 Antwerpen, Belgium
 
 09:30: Session 1 - *Constancy and Colour* | Chair: [Kris Goffin](http://goo.gl/L91gdV) (Antwerp/Ghent)
 
-- [Louise Daoust](https://goo.gl/VCkrlC) (Pennsylvania), 'On Constancy in Size Perception'
-- Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
+* [Louise Daoust](https://goo.gl/VCkrlC) (Pennsylvania), 'On Constancy in Size Perception'
+* Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
 
 11:00: Coffee & Tea
 
