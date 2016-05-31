@@ -15,9 +15,8 @@ Prinsstraat 13, 2000 Antwerpen, Belgium
 
 09:30: Session 1 - *Constancy and Colour* | Chair: [Kris Goffin](http://goo.gl/L91gdV) (Antwerp/Ghent)
 
-[Louise Daoust](https://goo.gl/VCkrlC) (Pennsylvania), 'On Constancy in Size Perception'
-
-Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
+- [Louise Daoust](https://goo.gl/VCkrlC) (Pennsylvania), 'On Constancy in Size Perception'
+- Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
 
 11:00: Coffee & Tea
 
@@ -36,7 +35,9 @@ Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
 
 16:00: Coffee & Tea
 
-16:30: Keynote, [John Campbell](http://goo.gl/C1U9wv) (UC Berkeley), ‘The Problem of Spatial Perception for a Relational View of Experience’ | Chair: [Chris Meyns](http://goo.gl/MkgU6U) (Cambridge)
+16:30: Keynote | Chair: [Chris Meyns](http://goo.gl/MkgU6U) (Cambridge)
+
+- [John Campbell](http://goo.gl/C1U9wv) (UC Berkeley), ‘The Problem of Spatial Perception for a Relational View of Experience’
 
 18:00: Closing day one
 
@@ -53,7 +54,9 @@ Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
 
 11:00: Coffee & Tea
 
-11:30: Keynote, [Mark Eli Kalderon](https://goo.gl/E32jy2) (UCL), 'What’s At Stake In Extramission?' Chair: [Laura Gow](http://goo.gl/AaRpld) (Antwerp)
+11:30: Keynote | Chair: [Laura Gow](http://goo.gl/AaRpld) (Antwerp)
+
+- [Mark Eli Kalderon](https://goo.gl/E32jy2) (UCL), 'What’s At Stake In Extramission?'
 
 13:00: Lunch
 
@@ -64,7 +67,9 @@ Tyler Brooke Wilson (CUNY), 'Dimensions of Color Appearance'
 
 15:30: Coffee & Tea
 
-16:00: Keynote, [Louise Richardson](https://goo.gl/uueNaI) (York), 'Odours and Sense-data' | Chair: [Nick Young](http://goo.gl/Q007Og) (Antwerp)
+16:00: Keynote | Chair: [Nick Young](http://goo.gl/Q007Og) (Antwerp)
+
+- [Louise Richardson](https://goo.gl/uueNaI) (York), 'Odours and Sense-data'
 
 17:30: Round table discussion | Chair: [Winnie Sung](https://goo.gl/Pf6elV) (NTU, Singapore)
 
